@@ -2,6 +2,7 @@ import java.util.Random;
 /**
  * program to generate a pattern for knitting a 
  * 8 x 8 inch square
+ * @author Hannah Morrison
  */
 public class KnittingPatternGenerator{
 	static final int totalStitches = 20;
